@@ -5,7 +5,7 @@ Spring Boot Just-Gif-It Main Module
 
 This Application is build using 2 modules first one is the current one and second one is just-gif-it-autoconfigure(https://github.com/chiragsoni2401/just-gif-it-autoconfigure).
 
-##Purpose
+## Purpose
 Allow you to upload the video file to convert it to the gif.
 
 
